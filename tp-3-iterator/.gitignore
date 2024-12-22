@@ -1,0 +1,64 @@
+ # Compiled source files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build output directories
+/target/
+
+# Maven specific files
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+.settings/
+*.iml
+
+# IDE specific files
+.idea/
+/*.iws
+*.swp
+*.swo
+*~.nib
+
+# Eclipse specific files
+.project
+.classpath
+.settings/
+
+# IntelliJ specific files
+/.idea/
+/*.iml
+/out/
+
+# NetBeans specific files
+/nbproject/private/
+/build/
+/dist/
+
+# VS Code specific files
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Java specific files
+*.war
+*.ear
+
+# Other
+*.bak
+*.log
+*.gz
+*.zip
+*.jar
+*.bat
+*.sh
+*.cmd
+*.pid
+*.patch
+*.orig
